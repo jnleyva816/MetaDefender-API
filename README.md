@@ -9,7 +9,7 @@ Python 3.9.5
 pip install -r requirements.txt
 
 ## Example 
-python scan.py -f file.txt -k apikey
+python scan.py -f test.pdf -k apikey
 
 
 ### Index 
